@@ -15,7 +15,7 @@
 ## Objectives for Writing Better Solutions
 
 * Evaluate a first-pass solution and reflect on its validity to decide if the solution needs revision
-* Apply techniques such as memoization or heuristics to improve an existing first-pass solution
+* Apply techniques such as memorization or heuristics to improve an existing first-pass solution
 
 ## Introduction
 
